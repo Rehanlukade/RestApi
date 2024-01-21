@@ -1,0 +1,10 @@
+Creating a RestFull Api For the curd operation 
+for best practice & to know the response is in the JSON format
+Get/api/users- List all the users  
+Get/user/1= user with id 1.......n
+
+added dynamic path parameters
+Post /users - create a new user in the list 
+
+patch /user/1 - Edit the user of id 1 or as per your need 
+DELETE /user/1 - delete the user with the id 1
