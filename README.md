@@ -18,7 +18,7 @@ A simple Express.js API for managing user data.
 - CRUD operations for managing user data.
 - Dynamic routing to delete users based on their ID.
 
-## Getting Started
+
 
 ### Prerequisites
 
